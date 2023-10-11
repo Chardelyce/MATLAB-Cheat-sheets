@@ -1,7 +1,7 @@
 # **MATLAB Cheat Sheets:smile:**
 
 
-A few cheat sheets I made for myself that I use for doing any math equations or mathmatics in general ~~totally not because i took a fixation in matlab recently~~
+A few cheat sheets I made for myself that I use for doing any math equations or mathmatics in general. ~~totally not because i took a fixation in matlab recently~~
 
 
 In the .md files you will find cheat sheets I have created related to the following: An overall college mathematics, Linear Algebra, Discrete Mathematics, Geometry, Stastics, Physics and a begineers starter sheet as well.  
