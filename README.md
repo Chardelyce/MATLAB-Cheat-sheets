@@ -6,7 +6,7 @@ A few cheat sheets I made for myself that I use for doing any math equations or 
 
 In the .md files you will find cheat sheets I have created related to the following: An overall college mathematics, Linear Algebra, Discrete Mathematics, Geometry, Stastics, Physics and a begineers starter sheet as well.  
 
-An example of how I formatted is the following:
+An example of how I formatted is as  follows:
 
 On the left is  the  math type and the function name  and the  definition of what is does is  on the right.
 
